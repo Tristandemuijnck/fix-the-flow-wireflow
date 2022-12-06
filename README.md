@@ -2,14 +2,15 @@
 
 # Titel
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
-Fix the flow - Wireflow
+Fix the flow - Wireflow.
 
 ## Gebruiker
 <!-- Het is duidelijk wie de gebruiker is -->
-
+Ontwikkelaars van websites met interesse in toegankelijkheidsverbeteringen.
 
 ## User Story
 <!-- Er is een User Story geschreven van de interactie -->
+Als gebruiker wil ik een checklist invullen over de toegankelijkheid van mijn website zodat ik inzicht krijg in wat ik nog kan verbeteren op het gebied van toegankelijkheid.
 
 ## Wireflow
 <!-- Toon de wireflow -->
