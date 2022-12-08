@@ -15,7 +15,7 @@ Als gebruiker wil ik een checklist invullen over de toegankelijkheid van mijn we
 ## Wireflow
 <!-- Toon de wireflow -->
 
- ![Wireflow](https://user-images.githubusercontent.com/43402897/206004353-b40a08e6-7fcf-4ee5-a1b4-e3139a1bb452.png)
+![Wireflow (1)](https://user-images.githubusercontent.com/43402897/206573965-77314bce-bbe6-4039-b183-ed58b9a12b98.png)
 
 
 ## Licentie
